@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+html{
+ font-size:16px;
+}
+
+header{
+ display: flex;
+}
+
+ul#mainNav{
+ display: flex;
+
+}
